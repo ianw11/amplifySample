@@ -10,11 +10,14 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "@aws-amplify/api": "^1.2.4",
+    "@aws-amplify/pubsub": "^1.2.4",
     "aws-amplify": "^1.2.4",
     "aws-amplify-react": "^2.5.4",
     "aws-amplify-react-native": "^2.2.3",
     "react": "16.9.0",
-    "react-native": "0.61.5"
+    "react-native": "0.61.5",
+    "typescript": "^3.7.2"
   },
   "devDependencies": {
     "@babel/core": "^7.6.2",
